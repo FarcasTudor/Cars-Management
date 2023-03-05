@@ -1,0 +1,6 @@
+ms72tab,aa,aa,aa
+ms82tab,kk,kk,kk
+ms74tab,ceva,ceva,ceva
+ms100tab,zz,zz,zz
+ms101tab,aa,aa,aa
+ms110tab,alo,alo,alo
